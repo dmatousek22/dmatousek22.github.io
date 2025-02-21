@@ -223,7 +223,7 @@ button {
 }
 
 .theme_bg {
-     background: #38c8a8;
+     background: #4E77AC;
 }
 
 .margin_top_30 {
@@ -338,7 +338,7 @@ button {
 }
 
 .text-bg h1 {
-     color: #02fee5;
+     color: #ffffff;
      font-size: 75px;
      line-height: 110px;
      font-weight: bold;
@@ -640,7 +640,7 @@ ul.padding_left2 li img {padding: 0px 10px 0px 30px;}
 /** footer **/
 
 .multi {
-     color: #046c58;
+     color: #6AA1C9;
 }
 
 .footer {
@@ -707,7 +707,7 @@ ul.social_icon li a:hover {
 
 .copyright {
      padding: 20px 0px;
-     background: #046c58;
+     background: #4E77AC;
      margin-top: 50px;
      position: relative;
 }
